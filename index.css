@@ -1,0 +1,127 @@
+body {
+    background: url("/images/image.jpg") no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: rgba(194,
+            235,
+            248,
+            0.8);
+    padding: 20px;
+    border-radius: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 500px !important;
+}
+
+#tax-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    width: 100% !important;
+}
+
+.form-control {
+    width: 100% !important;
+}
+
+.error-icon {
+    display: none;
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 180px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,
+            0,
+            0,
+            0.5);
+    z-index: 9999;
+    display: none;
+}
+
+.modal-content {
+    position: relative;
+    background: white;
+    padding: 1em 2em;
+    border-radius: 4px;
+}
+
+.modal-dialog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.glyphicon {
+    font-size: 15px;
+}
+
+abbr {
+    position: relative;
+}
+
+abbr:hover::after {
+    position: absolute;
+    bottom: 100%;
+    left: 100%;
+
+    padding: 1em;
+    font-size: smaller;
+    background: grey;
+    display: block;
+    color: white;
+    border-radius: 10px;
+    width: 200px;
+}
+
+#eIncome:hover::after {
+    content: "Extra Income refers to additional earnings beyond regular salary or wages.";
+}
+
+#gIncome:hover::after {
+    content: "Gross Annual Income is the total income earned over a year before any deductions or taxes.";
+}
+
+#deduct:hover::after {
+    content: "Deductions are expenses subtracted from gross income, reducing taxable income.";
+}
+#ageValue:hover::after {
+    content: "Present age of the person";
+}
+#font{
+    width: 18px;
+}
