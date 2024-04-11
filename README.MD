@@ -48,4 +48,5 @@ To run the Tax Calculator locally, follow these steps:
 4. Review the displayed overall income and income after tax deduction.
 
 ## Test Cases
+![Screenshot 2024-04-12 004454](https://github.com/KonduruKarthikiiitk/tax_calculator/assets/120019834/61b9bb24-37f0-4446-b40f-5553129aaa42)
 
