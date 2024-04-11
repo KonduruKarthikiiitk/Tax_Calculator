@@ -58,14 +58,24 @@ To run the Tax Calculator locally, follow these steps:
 2. Income over 8 (>) Lakhs, the amount over 8 Lakhs is taxed at 30% for people with age < 40
 
 - Inputs:
+![Screenshot 2024-04-12 010235](https://github.com/KonduruKarthikiiitk/tax_calculator/assets/120019834/4635ef5d-4e65-4157-8bc8-c39d007f0c92)
+
 - result:
+![Screenshot 2024-04-12 010243](https://github.com/KonduruKarthikiiitk/tax_calculator/assets/120019834/3735353f-c8fb-4697-af4a-1fc18dcb69ad)
+
 
 3. Income over 8 (>) Lakhs, the amount over 8 Lakhs is taxed at 40% for people with age ≥ 40 but < 60
 
 - Inputs:
+![Screenshot 2024-04-12 004531](https://github.com/KonduruKarthikiiitk/tax_calculator/assets/120019834/272ad84b-9d13-4618-847a-a087ebdd4af7)
 - result:
+![Screenshot 2024-04-12 010451](https://github.com/KonduruKarthikiiitk/tax_calculator/assets/120019834/067a8d38-e99d-402d-9c10-4a4cdc156500)
+
 
 4. Income over 8 (>) Lakhs, the amount over 8 Lakhs is taxed at 10% for people with age ≥ 60
 
 - Inputs:
+![Screenshot 2024-04-12 004541](https://github.com/KonduruKarthikiiitk/tax_calculator/assets/120019834/b03df9c1-8175-4ec9-a9f1-7f89abcd36e2)
 - result:
+![Screenshot 2024-04-12 004548](https://github.com/KonduruKarthikiiitk/tax_calculator/assets/120019834/3d63467f-e6cc-4d11-8dc1-7aaf1c3a6682)
+
