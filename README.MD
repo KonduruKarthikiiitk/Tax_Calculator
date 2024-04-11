@@ -3,6 +3,7 @@
 - Overview
 - Features
 - Technologies Used
+- Link to the hosted Web App.
 - Usage
 - Test Cases
 
@@ -36,6 +37,8 @@ To run the Tax Calculator locally, follow these steps:
  ```bash
    cd tax-calculator
 
+## Link to the hosted Web App
+[Live Demo](https://tax-calculator-txt4.vercel.app/)
 
 ## Usage
 
