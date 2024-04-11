@@ -48,5 +48,24 @@ To run the Tax Calculator locally, follow these steps:
 4. Review the displayed overall income and income after tax deduction.
 
 ## Test Cases
+1.Overall income (after deductions) under 8 (≤) Lakhs is not taxed.
+- Inputs:
 ![Screenshot 2024-04-12 004454](https://github.com/KonduruKarthikiiitk/tax_calculator/assets/120019834/61b9bb24-37f0-4446-b40f-5553129aaa42)
+- result:
+![Screenshot 2024-04-12 004448](https://github.com/KonduruKarthikiiitk/tax_calculator/assets/120019834/01bbda41-68ed-4dda-a053-e1a19ca55505)
 
+
+2. Income over 8 (>) Lakhs, the amount over 8 Lakhs is taxed at 30% for people with age < 40
+
+- Inputs:
+- result:
+
+3. Income over 8 (>) Lakhs, the amount over 8 Lakhs is taxed at 40% for people with age ≥ 40 but < 60
+
+- Inputs:
+- result:
+
+4. Income over 8 (>) Lakhs, the amount over 8 Lakhs is taxed at 10% for people with age ≥ 60
+
+- Inputs:
+- result:
