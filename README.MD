@@ -32,7 +32,7 @@ To run the Tax Calculator locally, follow these steps:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/tax-calculator.git
+   git clone https://github.com/KonduruKarthikiiitk/tax-calculator.git
 2. Navigate to the project directory.
  ```bash
    cd tax-calculator
