@@ -36,7 +36,7 @@ To run the Tax Calculator locally, follow these steps:
 2. Navigate to the project directory.
  ```bash
    cd tax-calculator
-
+```
 ## Link to the hosted Web App
 [Live Demo](https://tax-calculator-txt4.vercel.app/)
 
